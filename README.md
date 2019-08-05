@@ -1,2 +1,2 @@
 # Twitter_Analysis
-Pulling data from Twitter and observing Sentimental Analysis
+Pulling data from Twitter and doing a Sentimental Analysis
